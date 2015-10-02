@@ -1,2 +1,7 @@
-# myfirst
-testing git
+# myFirst
+
+checking the Github
+
+
+
+
